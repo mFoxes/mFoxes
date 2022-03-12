@@ -1,8 +1,8 @@
 <h1>About me</h1>
 <h3>Hello, i'm Artem</h3>
 <ul>
-    <li>:mortar_board: I am studying at [VSTU](https://www.vstu.ru/) in the field of electronics and computer technology</li>
-    <li>:computer: I am actively learning frontend development using Reactjs</li>
+    <li>:mortar_board: I am studying at <a href="https://www.vstu.ru/">VSTU</a> in the field of electronics and computer technology;</li>
+    <li>:computer: I am actively learning frontend development using Reactjs.</li>
 </ul>
 <h3>Skills</h3>
 <div align="center">
